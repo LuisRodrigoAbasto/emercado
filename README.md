@@ -1,2 +1,0 @@
-# emercado
-Emercado, Transporte, Productos
